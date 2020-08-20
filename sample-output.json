@@ -1,0 +1,1469 @@
+{'data': [{'hasError': False,
+           'location': None,
+           'pk': 72504,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-08-13T15:23:00',
+           'text': '(H2067/20 NOTAMN\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5243N05321W999\n'
+                   'A) CZQX CZQM CZUL B) 2008131523 C) 2011101500EST\n'
+                   'E) COVID 19: INFORMATION\n'
+                   'BORDER SVC ARE TEMPO SUSPENDED AT THE MAJORITY OF SMALL  \n'
+                   'AIRPORTS ACROSS CANADA. FOR AN UPDATED LIST OF AUTH '
+                   'AIRPORTS OF \n'
+                   'ENTRY SEE THE LINK FOR OPEN PORTS OF ENTRY AT \n'
+                   'WWW.CBSA-ASFC.GC.CA/OFFICES\n'
+                   '\n'
+                   'FR:\n'
+                   'COVID 19: INFORMATIONS \n'
+                   'LE SERVICE FRONTALIER EST SUSPENDU DANS LA MAJORITE DES  \n'
+                   'AEROPORTS AU CANADA. POUR UNE LISTE A JOUR DES PORTS '
+                   "D'ENTREE \n"
+                   'AUTORISES, CONSULTER LE LIEN A '
+                   'WWW.CBSA-ASFC.GC.CA/BUREAUX)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 69400,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-07-29T17:56:12.503',
+           'text': '(H1892/20A02 NOTAMN\n'
+                   'Q) CZXX/QARXX/IV/BO/E/000/999/5243N05321W999\n'
+                   'A) CZUL CZQM CZQX B) 2007310901 C) 2010162359\n'
+                   'E) NOTICE OF TRIAL TO REMOVE FLT PLANNING REQUIREMENTS OF '
+                   'EASTBOUND \n'
+                   'NORTH AMERICAN ROUTE (NAR) SYSTEM:\n'
+                   '\n'
+                   'ALL FLTS DEP FM CYYZ, CYUL, KORD, KDTW, KMSP, KATL, KCVG, '
+                   'KDFW, \n'
+                   'KMIA, KSAV, KIAH, AND ALL AP WITHIN THE REGIONS OF '
+                   'MEXICO, \n'
+                   'CENTRAL AMERICA, AND NW CARIBBEAN OPR WITHIN THE NORTH '
+                   'ATLANTIC \n'
+                   'ORGANIZED TRACK STRUCTURE, ARE NOT REQUIRED TO FILE THE \n'
+                   'ASSOCIATED NAR LISTED ON THE DLY ZBW NORTH ATLANTIC '
+                   'ADVISORY OR \n'
+                   'THE NAT OTS MESSAGE. ASSOCIATED NAR ARE REFERENCED UNDER '
+                   'THE (JFK \n'
+                   'DEP) SECTION OF THE ADVISORY. \n'
+                   '\n'
+                   'DEPS MUST STILL COMPLY WITH ANY DEP RTE, STRUCTURES, '
+                   'AND/OR \n'
+                   'RESTRICTIONS FM THE DEP AP. OPTIMIZED ROUTINGS CAN ONLY \n'
+                   'BEGIN FM POINTS WITHIN ZBW AIRSPACE, THE MONCTON FIR, OR '
+                   'BOTH. \n'
+                   'ONCE INSIDE ZBW AIRSPACE/MONCTON FIR, RANDOM ROUTINGS TO '
+                   'THE OEP \n'
+                   'ARE PERMITTED. FLT PATHS OF ACFT PARTICIPATING IN THE '
+                   'TRIAL MUST \n'
+                   'REMAIN AT OR NORTH OF A LINE VITOL-LOMPI. PLEASE REFER TO '
+                   'DLY ZBW \n'
+                   'NORTH ATLANTIC ADVISORY FOR SPECIFIC INFO AND STATUS OF '
+                   'THIS \n'
+                   'TRIAL. \n'
+                   '\n'
+                   'THIS TRIAL MAY BE DISCONTINUED AT ANY TIME, BASED ON '
+                   'OPERATIONAL \n'
+                   'IMPACT.\n'
+                   '\n'
+                   'DISPATCHERS SHALL INCLUDE (NO NARS EAST TRIAL) IN THE '
+                   'REMARKS \n'
+                   'SECTION OF FLT PLANS FOR PARTCIPATING ACFT.\n'
+                   '\n'
+                   'FLT CREWS ARE EXPECTED TO CARRY APPLICABLE NAR '
+                   'DOCUMENTATION ON \n'
+                   'THE FLT DECK FOR ALL FLTS, REGARDLESS IF PARTICIPATING IN '
+                   'THE \n'
+                   'TRIAL OR NOT.\n'
+                   '\n'
+                   'FR:\n'
+                   "AVIS D'ESSAI D'ELIMINATION DES EXIGENCES EN MATIERE DE \n"
+                   'PLANIFICATION DE VOL SUR LE RESEAU DE RTE AERIENNES \n'
+                   'NORD-AMERICAINES (NAR) EN DIRECTION EST: \n'
+                   '\n'
+                   'TOUS LES VOLS AU DEP DE CYYZ, CYUL, KORD, KDTW, KMSP, '
+                   'KATL, KCVG, \n'
+                   'KDFW, KMIA, KSAV, KIAH, ET TOUS LES AP DANS LES REGIONS '
+                   'DU \n'
+                   "MEXIQUE,  DE L'AMERIQUE CENTRALE ET DES CARAIBES )\n"
+                   '//END PART 01// DU NORD-OUEST \n'
+                   'EXPLOITES DANS LE SYSTEME DE RTE ORGANISEES (OTS) DE '
+                   "L'ATLANTIQUE \n"
+                   "NORD (NAT) N'ONT PLUS A INDIQUER LA NAR ASSOCIEE FIGURANT "
+                   'DANS \n'
+                   "L'AVIS CONSULTATIF QUOTIDIEN DE ZBW SUR LE TFC NAT OU "
+                   'MESSAGE NAT \n'
+                   'OTS. LES NAR ASSOCIEES SONT INCLUSES DANS LA SECTION (JFK '
+                   'DEP) DE \n'
+                   "L'AVIS. \n"
+                   '\n'
+                   'LES ACFT AU DEP DOIVENT TOUJOURS SE CONFORMER AUX RTE, \n'
+                   "AUX STRUCTURES ET (OU) AUX RESTRICTIONS DEPUIS L'AP DE \n"
+                   "DEP. LES RTE OPTIMISEES NE COMMENCENT QU'A PARTIR DE "
+                   'POINTS \n'
+                   "AU SEIN DE L'ESPACE AERIEN DE ZBW, DE LA FIR DE MONCTON, "
+                   'OU DES \n'
+                   "DEUX. UNE FOIS A L'INTERIEUR DE L'ESPACE AERIEN DE ZBW/DE "
+                   'LA FIR \n'
+                   "DE MONCTON, DES RTE ALEATOIRES JUSQU'A L'OEP SONT "
+                   'PERMISES. \n'
+                   'LES TRAJECTOIRES DE VOL DES ACFT QUI PARTICIPENT A '
+                   "L'ESSAI \n"
+                   'DOIVENT DEMEURER SUR LA RTE VITOL-LOMPI OU AU NORD DE '
+                   'CELLE-CI. \n'
+                   "CONSULTEZ L'AVIS CONSULTATIF QUOTIDIEN DE ZBW SUR LE TFC "
+                   'NAT \n'
+                   "AFIN D'OBTENIR DES RENSEIGNEMENTS PRECIS SUR L'ESSAI ET "
+                   "L'ETAT DE \n"
+                   'CELUI-CI.\n'
+                   '\n'
+                   "CET ESSAI PEUT ETRE INTERROMPU A N'IMPORTE QUEL MOMENT.\n"
+                   '\n'
+                   'LES REPARTITEURS INCLURONT LA MENTION (NO NARS EAST TRIAL) '
+                   'DANS \n'
+                   'LA SECTION DES REMARQUES DES PLANS DE VOL DES ACFT '
+                   'PARTICIPANTS.\n'
+                   '\n'
+                   "IL EST ATTENDU DES EQUIPAGES DE CONDUITE QU'ILS AIENT LA \n"
+                   'DOCUMENTATION NAR PERTINENTE DANS LE POSTE DE PILOTAGE '
+                   'POUR TOUS \n'
+                   "LES VOLS, QU'ILS PARTICIPENT A L'ESSAI OU NON.)\n"
+                   '//END PART 02/02//',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 68913,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-07-27T16:22:00',
+           'text': '(H1864/20A02 NOTAMR H1432/20\r\n'
+                   'Q) CZXX/QOECA/IV/BO/W/000/999/5243N05321W999\r\n'
+                   'A) CZUL CZQM CZQX B) 2007271622 C) 2009171600EST\r\n'
+                   'E) COVID-19:  FLIGHT RESTRICTIONS\r\n'
+                   'UNTIL FURTHER NOTICE, WITH THE INTENT TO PREVENT THE '
+                   'SPREAD OF \r\n'
+                   'COVID-19 THROUGHOUT CANADA, ALL PRIVATE OPR AND COMMERCIAL '
+                   'AIR \r\n'
+                   'SVC  OPR FLT TO CANADA TRANSPORTING PASSENGERS MUST COMPLY '
+                   'WITH \r\n'
+                   "THE PROVISION OF THE 'INTERIM ORDER RESPECTING CERTAIN \r\n"
+                   "REQUIREMENTS FOR CIVIL AVIATION DUE TO COVID-19 NO.4'  "
+                   'DATED JULY \r\n'
+                   '25, 2020. THIS INCLUDES A REQUIREMENT FOR PASSENGER FACE '
+                   'MASKS OR \r\n'
+                   'COVERINGS. \r\n'
+                   'IN ADDITION TO ABV, AND PURSUANT TO SECTION 5.1 OF THE \r\n'
+                   'AERONAUTICS ACT, ALL COMMERCIAL AIR SVC CONDUCTING '
+                   'SKED \r\n'
+                   'INTERNATIONAL SVC FOR THE TRANSPORT OF PASSENGERS ON AN '
+                   'INBOUND \r\n'
+                   'FLT TO CANADA, EXC DIRECT FLT FM THE USA, MEXICO, '
+                   'CENTRAL \r\n'
+                   'AMERICA, THE CARIBBEAN, SOUTH AMERICA, AND ST-PIERRE ET '
+                   'MIQUELON, \r\n'
+                   'MUST, FOR THE PURPOSE OF DISEMBARKING PASSENGERS, LAND AT '
+                   'ONE OF \r\n'
+                   'THE FLW AP:\r\n'
+                   '-AEROPORT INTL DE MONTREAL-TRUDEAU \r\n'
+                   '-CALGARY INTL AIRPORT\r\n'
+                   '-TORONTO-PEARSON INTL AIRPORT\r\n'
+                   '-VANCOUVER INTL AIRPORT\r\n'
+                   '\r\n'
+                   'THIS RESTRICTION DOES NOT APPLY TO ACFT OPERATED IN THE '
+                   'FLW \r\n'
+                   'CIRCUMSTANCES: \r\n'
+                   '-TECHNICAL STOPS WHERE PASSENGERS DO NOT DISEMBARK, OR\r\n'
+                   '-AT ALTERNATE AP IDENTIFIED IN A FLT PLAN TO ADDRESS WX, '
+                   'OR \r\n'
+                   '-ACFT SAFETY SITUATIONS, OR\r\n'
+                   '-IN THE CASE WHERE SPECIAL AUTH HAS BEEN GRANTED BY '
+                   'TRANSPORT \r\n'
+                   'CANADA: 1-888-857-4003.\r\n'
+                   '\r\n'
+                   'FR:\r\n'
+                   'COVID-19 : RESTRICTIONS DE VOL\r\n'
+                   "JUSQU'A NOUVEL AVIS, AVEC L'INTENTION DE PREVENIR LA "
+                   'PROPAGATION \r\n'
+                   'DU COVID-19 PARTOUT AU CANADA, TOUS LES EXPLOITANTS PRIVES '
+                   'ET LES \r\n'
+                   'SVC AERIENS COMMERCIAUX QUI EFFECTUENT DES FLT VERS LE '
+                   'CANADA \r\n'
+                   'TRANSPORTANT DES PASSAGERS DOIVENT SE CONFORMER A '
+                   "'ARRETE \r\n"
+                   "D'URGENCE VISANT CERTAINES EXIGENCES RELATIVES A "
+                   "L'AVIATION \r\n"
+                   'CIVILE EN RAISON )\r\n'
+                   "//END PART 01// DE LA COVID-19 NO.4' EN DATE DU 25 "
+                   'JUILLET, \r\n'
+                   '2020. CELA COMPREND UNE EXIGENCE CONCERNANT LES MASQUES '
+                   'FACIAUX \r\n'
+                   'OU LES COUVRES-VISAGES POUR PASSAGERS. \r\n'
+                   "EN PLUS DE CE QUI PRECEDE, ET CONFORMEMENT A L'ARTICLE 5.1 "
+                   'DE LA \r\n'
+                   "LOI SUR L'AERONAUTIQUE, TOUS LES SVC AERIENS COMMERCIAUX "
+                   'ASSURANT \r\n'
+                   'UN SVC INTERNATIONAL REGULIER POUR LE TRANSPORT DE '
+                   'PASSAGERS A \r\n'
+                   "L'ARRIVEE AU CANADA, EXCLUANT LES FLT DIRECT EN PROVENANCE "
+                   'DES  \r\n'
+                   'ETATS-UNIS, MEXIQUE, AMERIQUE CENTRALE, CARAIBES, AMERIQUE '
+                   'DU \r\n'
+                   'SUD, ET ST-PIERRE ET MIQUELON, DOIVENT, AUX FINS DU '
+                   'DEBARQUEMENT \r\n'
+                   "DES PASSAGERS, ATTERRIR A L'UN DES AP SUIVANTS :\r\n"
+                   '-AEROPORT INTL DE MONTREAL-TRUDEAU \r\n'
+                   '-AEROPORT INTL DE CALGARY\r\n'
+                   '-AEROPORT INTL TORONTO-PEARSON\r\n'
+                   '-AEROPORT INTL DE VANCOUVER\r\n'
+                   '\r\n'
+                   "CETTE RESTRICTION NE S'APPLIQUE PAS AUX ACFT EXPLOITES "
+                   'DANS LES \r\n'
+                   'CONDITIONS SUIVANTES : \r\n'
+                   '-ARRETS TECHNIQUES LORSQUE LES PASSAGERS NE DEBARQUENT '
+                   'PAS, OU\r\n'
+                   '-AUX AP DE DEGAGEMENT IDENTIFIES DANS UN PLAN DE VOL POUR '
+                   'TENIR \r\n'
+                   'COMPTE DES CONDITIONS MET, OU \r\n'
+                   '-TOUTES SITUATIONS CONCERNANT LA  SECURITE DES ACFT OU\r\n'
+                   '-DANS LE CAS OU UNE AUTH SPECIALE A ETE ACCORDEE PAR '
+                   'TRANSPORTS \r\n'
+                   'CANADA : 1-888-857-4003\r\n'
+                   'F) SFC G) UNL',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 68912,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-07-27T16:19:00',
+           'text': '(H1863/20 NOTAMR H1433/20\n'
+                   'Q) CZXX/QOECA/IV/BO/W/000/999/5243N05321W999\n'
+                   'A) CZUL CZQM CZQX B) 2007271619 C) 2009171600EST\n'
+                   'E) COVID-19: FLIGHT RESTRICTIONS\n'
+                   'UNTIL FURTHER NOTICE, WITH THE INTENT TO PREVENT THE '
+                   'SPREAD OF \n'
+                   'COVID-19 THROUGHOUT CANADA, AN OPERATOR OPERATING FLIGHTS '
+                   'IN \n'
+                   "CANADA MUST COMPLY WITH THE PROVISION OF THE 'INTERIM "
+                   'ORDER \n'
+                   'RESPECTING CERTAIN REQUIREMENTS FOR CIVIL AVIATION DUE '
+                   'TO \n'
+                   "COVID-19 NO.4' DATED JULY 25, 2020. THIS INCLUDES A "
+                   'REQUIREMENT \n'
+                   'FOR PASSENGER FACE MASKS. OPERATORS ARE REQUIRED TO '
+                   'NOTIFY \n'
+                   'PASSENGERS OF THE LATEST MEASURES TO PREVENT THE SPREAD '
+                   'OF \n'
+                   'COVID-19 TAKEN BY THE TERRITORIAL AND PROVINCIAL '
+                   'GOVERNMENT WITH \n'
+                   'JURISDICTION AT THE DESTINATION AERODROME FOR THAT '
+                   'FLIGHT.\n'
+                   '\n'
+                   'FR:\n'
+                   'COVID-19: RESTRICTIONS DE VOL: \n'
+                   "JUSQU'A NOUVEL ORDRE, DANS L'INTENTION DE PREVENIR LA "
+                   'PROPAGATION \n'
+                   'DU COVID-19 AU CANADA, UN OPERATEUR OPERANT DES VOLS AU '
+                   'CANADA \n'
+                   "DOIT SE CONFORMER AUX DISPOSITIONS DE 'ARRETE D'URGENCE "
+                   'VISANT \n'
+                   "CERTAINES EXIGENCES RELATIVES A L'AVIATION CIVILE EN "
+                   'RAISON DE LA \n'
+                   "COVID-19 NO.4' EN DATE DU 25 JUILLET, 2020. \n"
+                   'CECI COMPREND UNE EXIGENCE DE MASQUES FACIAUX POUR LES '
+                   'PASSAGERS. \n'
+                   'LES OPERATEURS DOIVENT AVISER LES PASSAGERS DES DERNIERES '
+                   'MESURES \n'
+                   'POUR PREVENIRE LA PROPAGATION  DE LA COVID-19 PRISE PAR \n'
+                   "L'ADMINISTRATION PROVINCIALE OU TERRITORIALE COMPETENTE "
+                   'A \n'
+                   "L'AERODROME DE DESTINATION DU VOL.\n"
+                   'F) SFC G) UNL)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYND',
+           'pk': 68565,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-07-25T10:38:11.993',
+           'text': '(K2131/20 NOTAMR K2128/20\n'
+                   'Q) CZUL/QFAAH/IV/NBO/A/000/999/4531N07534W005\n'
+                   'A) CYND B) 2007251200 C) 2008312330EST\n'
+                   'E) HR OF SVC 1200-2330, OTHER TIMES 2 HR PPR 819-743-8883 '
+                   'WITH FEES\n'
+                   '\n'
+                   'FR:\n'
+                   'HR DE SVC 1200-2330, AUTRE TEMPS 2 HR PPR 819-743-8883 '
+                   'AVEC FRAIS)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 66341,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-07-14T19:14:00',
+           'text': '(H1717/20 NOTAMR H0972/20\n'
+                   'Q) CZXX/QOECA/IV/NBO/W/000/999/5243N05321W999\n'
+                   'A) CZQX CZQM CZUL B) 2007141914 C) 2009171400EST\n'
+                   'E) COVID-19:CREWS/PASSENGERS REQUIREMENTS\n'
+                   'ALL FOREIGN MIL AND STATE ACFT WITH STOP OVERS IN CANADA '
+                   'TO CTC \n'
+                   'SODO(AT)FORCES.GC.CA OR CALL \n'
+                   '(204) 833-2500 EXT 2082 PRIOR TO FILING FLT PLAN\n'
+                   '\n'
+                   'FR:\n'
+                   'COVID-19: EXIGENCES DES EQUIPAGES / PASSAGERS \n'
+                   "TOUS LES AERONEFS MIL ET D'ETATS ETRANGERS AYANT LE CANADA "
+                   'COMME \n'
+                   "DESTINATION OU AYANT UN POINT D'ARRET AU CANADA "
+                   'CONTACTEZ \n'
+                   'SODO(AT)FORCES.GC.CA OU APPELEZ (204) 833-2500 POSTE 2082 '
+                   'AVANT \n'
+                   'DE DEPOSER LE PLAN DE VOL.\n'
+                   'F) SFC G) UNL)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYRO',
+           'pk': 64598,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-07-06T17:46:00',
+           'text': '(K1886/20 NOTAMR K1528/20\n'
+                   'Q) CZUL/QMDCH/IV/NBO/A/000/999/4528N07539W005\n'
+                   'A) CYRO B) 2007061746 C) 2010061745EST\n'
+                   'E) DECLARED DIST: DAY\n'
+                   'RWY 09 TORA 3304 TODA 3304 ASDA 3304 LDA 3104\n'
+                   'RWY 27 TORA 3304 TODA 3304 ASDA 3304 LDA 3104\n'
+                   'DECLARED DIST: NIGHT\n'
+                   'RWY 09 TORA 1705 TODA 3026 ASDA 3026 LDA 1705\n'
+                   'RWY 27 TORA 1705 TODA 1982 ASDA 1982 LDA 1705\n'
+                   '\n'
+                   'FR:\n'
+                   'DIST DECLAREES: JOUR:\n'
+                   'RWY 09 TORA 3304 TODA 3304 ASDA 3304 LDA 3104\n'
+                   'RWY 27 TORA 3304 TODA 3304 ASDA 3304 LDA 3104\n'
+                   'DIST DECLAREES: NUIT:\n'
+                   'RWY 09 TORA 1705 TODA 3026 ASDA 3026 LDA 1705\n'
+                   'RWY 27 TORA 1705 TODA 1982 ASDA 1982 LDA 1705)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 63941,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-07-02T20:04:37.935',
+           'text': '(E3498/20 NOTAMN\n'
+                   'Q) CZXX/QXXXX/IV/NBO/AE/000/999/5243N05321W999\n'
+                   'A) CZUL CZQM CZQX B) 2007040359 C) 2010021600\n'
+                   'E) CUST HR CHANGED FOR FLW AD. CTC 888-226-7277 FOR INFO.\n'
+                   '    -MONTREAL/PIERRE ELLIOTT TRUDEAU INTL (CYUL),\n'
+                   '    -MONCTON/GREATER MONCTON ROMEO LEBLANC INTL (CYQM)\n'
+                   '    -FREDERICTON INTL (CYFC),\n'
+                   '    -CHARLOTTETOWN (CYYG),\n'
+                   '    -SAINT JOHN (CYSJ).\n'
+                   '\n'
+                   'FR:\n'
+                   'HR DES DOUANES CHANGEES POUR LES AD SUIVANTS. CTC '
+                   '888-226-7277 \n'
+                   'POUR INFO \n'
+                   '    -MONTREAL/PIERRE ELLIOTT TRUDEAU INTL (CYUL),\n'
+                   '    -MONCTON/GREATER MONCTON ROMEO LEBLANC INTL (CYQM),\n'
+                   '    -FREDERICTON INTL (CYFC),\n'
+                   '    -CHARLOTTETOWN (CYYG),\n'
+                   '    -SAINT JOHN (CYSJ).)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYRO',
+           'pk': 62531,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-06-25T11:25:00',
+           'text': '(K1762/20 NOTAMN\n'
+                   'Q) CZUL/QOBCE/IV/M/AE/000/007/4525N07542W005\n'
+                   'A) CYRO B) 2006251125 C) PERM\n'
+                   'E) AMEND PUBLICATIONS: NEW TOWER 452457N 0754219W (APRX '
+                   '3.8NM WSW \n'
+                   'AD). 425FT AGL 626FT AMSL. NOT LGTD, NOT PAINTED.\n'
+                   '\n'
+                   'FR:\n'
+                   'TOUR 452457N 0754219W (APRX 3.8NM WSW AD). 425FT AGL 626FT '
+                   'AMSL. \n'
+                   'NON LGTD, NON PEINTE.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 46605,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-03-13T15:07:00',
+           'text': '(H0655/20 NOTAMR H0509/20\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5243N05321W999\n'
+                   'A) CZUL CZQM CZQX B) 2003131507 C) PERM\n'
+                   'E) AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF '
+                   'TRANSPORT \n'
+                   'IN RESPONSE TO THE SECURITY SITUATION IN IRAQ. POTENTIAL '
+                   'RISK \n'
+                   'FROM MILITARY ACTIVITY AND ANTI-AVIATION WEAPONRY IN '
+                   'IRAQ. \n'
+                   'AIR OPERATORS ARE ADVISED NOT TO ENTER THE AIRSPACE OF '
+                   'IRAQ, \n'
+                   'INCLUDING THE BAGHDAD FIR (ORBB).\n'
+                   '\n'
+                   'FR:\n'
+                   "AVERTISSEMENT RELATIF A LA SECURITE DE L'ESPACE AERIEN "
+                   'EMIS PAR \n'
+                   'LE MINISTERE DES TRANSPORTS EN REPONSE A LA SITUATION DE '
+                   'SECURITE \n'
+                   "EN IRAK. RISQUE POSSIBLE DU A L'ACTIVITE MILITAIRE ET LA "
+                   'PRESENCE \n'
+                   "D'ARMES ANTI-AERIENNES. LES EXPLOITANTS  AERIENS SONT "
+                   'AVISES DE \n'
+                   "NE PAS PENETRER DANS L'ESPACE AERIEN DE  L'IRAK, INCLUANT "
+                   'LA FIR \n'
+                   'DE BAGHDAD (ORBB).)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 42759,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-02-18T20:56:00',
+           'text': '(H0413/20 NOTAMR H0397/20\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5243N05321W999\n'
+                   'A) CZUL CZQM CZQX B) 2002182056 C) PERM\n'
+                   'E) AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF '
+                   'TRANSPORT \n'
+                   'IN RESPONSE TO THE POTENTIAL RISK DUE TO THE HAZARDOUS '
+                   'SITUATION \n'
+                   'CREATED BY THE EXPANDING CONFLICT IN LIBYA. AIR OPR ARE '
+                   'ADVISED \n'
+                   'NOT TO ENTER THE AIRSPACE OF LIBYA, INCLUDING THE TRIPOLI '
+                   'FIR \n'
+                   '(HLLL). \n'
+                   '\n'
+                   'FR:\n'
+                   "AVERTISSEMENT RELATIF A LA SECURITE DE L'ESPACE AERIEN "
+                   'EMIS PAR \n'
+                   'LE DEPARTEMENT DES TRANSPORTS EN REPONSE AU RISQUE '
+                   'POSSIBLE DU A \n'
+                   "LA SITUATION DANGEREUSE ENGENDREE PAR L'EXPANSION DU "
+                   'CONFLIT EN \n'
+                   'LIBYE. LES EXPLOITANTS AERIENS SONT AVISES DE NE PAS '
+                   'PENETRER \n'
+                   "DANS L'ESPACE AERIEN DE LA LIBYE, INCLUANT LA FIR DE "
+                   'TRIPOLI \n'
+                   '(HLLL).)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 41287,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-02-09T18:13:00',
+           'text': '(H0330/20 NOTAMN\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5243N05321W999\n'
+                   'A) CZUL CZQM CZQX B) 2002091813 C) PERM\n'
+                   'E) AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF '
+                   'TRANSPORT \n'
+                   'IN RESPONSE TO THE POTENTIAL RISK FM HEIGHTENED MIL ACT '
+                   'AND \n'
+                   'DEDICATED ANTI-AVIATION WEAPONRY IN OR AROUND SYRIA. THIS '
+                   'MIL ACT \n'
+                   'MIGHT INCLUDE GPS INTERFERENCE, COM JAMMING, AND POSSIBLE '
+                   'ERRANT \n'
+                   'LONG-RANGE SURFACE-TO-AIR MISSILES ORIGINATING FM SYRIAN \n'
+                   'TERRITORY, WITHIN THE DAMASCUS FIR (OSTT), AND STRAYING '
+                   'INTO ADJ \n'
+                   'AIRSPACE. AIR OPR ARE ADVISED NOT TO ENTER THE AIRSPACE OF '
+                   'SYRIA, \n'
+                   'INCLUDING THE DAMASCUS FIR (OSTT), AND TO EXER CAUTION '
+                   'WHEN OPR \n'
+                   'IN THE AIRSPACE WITHIN 200NM OF THE DAMASCUS FIR (OSTT).\n'
+                   '\n'
+                   'FR:\n'
+                   "AVERTISSEMENT RELATIF A LA SECURITE DE L'ESPACE AERIEN "
+                   'EMIS PAR \n'
+                   'LE DEPARTEMENT DES TRANSPORTS EN REPONSE AU RISQUE '
+                   'POSSIBLE DU A \n'
+                   "UNE ACT MIL ACCRUE ET A LA PRESENCE D'ARMES ANTI-AERIENNES "
+                   'EN \n'
+                   "SYRIE OU A PROXIMITE DE LA SYRIE. L'ACT MIL POURRAIT "
+                   'INCLURE DE \n'
+                   "L'INTERFERENCE GPS, DU BROUILLAGE DES COM ET DE "
+                   'POSSIBLES \n'
+                   'MISSILES SOL-AIR LONGUE PORTEE ERRANTS EMANANT DU '
+                   'TERRITOIRE \n'
+                   'SYRIEN, DANS LA FIR DE DAMASCUS (OSTT), ET ENTRANT DANS '
+                   "L'ESPACE \n"
+                   'AERIEN ADJ. LES EXPLOITANTS AERIENS SONT AVISES DE NE '
+                   'PAS \n'
+                   "PENETRER DANS L'ESPACE AERIEN DE LA SYRIE, INCLUANT LA FIR "
+                   'DE \n'
+                   "DAMASCUS (OSTT), ET DE FAIRE PREUVE DE PRUDENCE LORS D'OPR "
+                   'DANS \n'
+                   "L'ESPACE AERIEN EN DECA DE 200NM DE LA FIR DE DAMASCUS "
+                   '(OSTT). )',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 35945,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2020-01-11T02:21:00',
+           'text': '(H0047/20 NOTAMR H0046/20\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5243N05321W999\n'
+                   'A) CZUL CZQM CZQX B) 2001110221 C) PERM\n'
+                   'E) AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF '
+                   'TRANSPORT \n'
+                   'IN RESPONSE TO THE VOLATILE SECURITY SITUATION IN IRAN. '
+                   'POTENTIAL \n'
+                   'RISK FROM HEIGHTENED MILITARY ACTIVITY AND DEDICATED \n'
+                   'ANTI-AVIATION WEAPONRY IN IRAN. AIR OPERATORS ARE ADVISED '
+                   'NOT TO \n'
+                   'ENTER THE AIRSPACE OF IRAN, INCLUDING THE TEHRAN FIR '
+                   '(OIIX)\n'
+                   '\n'
+                   'FR:\n'
+                   "AVERTISSEMENT RELATIF A LA SECURITE DE L'ESPACE AERIEN "
+                   'EMIS PAR \n'
+                   'LE MINISTERE DES TRANSPORTS EN REPONSE A LA SITUATION DE '
+                   'SECURITE \n'
+                   'VOLATILE EN IRAN. RISQUE POSSIBLE DU A UNE ACTIVITE '
+                   'MILITAIRE \n'
+                   "ACCRUE ET LA PRESENCE D'ARMES ANTI-AERIENNES. LES "
+                   'EXPLOITANTS \n'
+                   "AERIENS SONT AVISES DE NE PAS PENETRER DANS L'ESPACE "
+                   'AERIEN DE \n'
+                   "L'IRAN, INCLUANT LA FIR DE TEHERAN (OIIX))",
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 16923,
+           'pointReference': 'CYRO',
+           'radialDistance': 0.0,
+           'startValidity': '2019-10-11T15:24:58.638',
+           'text': '(H0083/19 NOTAMR H0046/19\n'
+                   'Q) CZXX/QRTLP/IV/BO/W/000/999/5243N05321W999\n'
+                   'A) CZUL CZQM CZQX  B) 1910111527 C) PERM\n'
+                   'E) PURSUANT TO SECTION 5.1 OF THE AERONAUTICS ACT, THE '
+                   'MINISTER\n'
+                   'OF TRANSPORT IS OF THE OPINION IT IS NECESSARY FOR THE '
+                   'PROTECTION\n'
+                   'OF AVIATION SAFETY AND THE PUBLIC TO PROHIBIT THE OPS OF\n'
+                   'BOEING 737-8 MAX AND 737-9 MAX ACFT IN CANADIAN AIRSPACE.\n'
+                   'B737-8 MAX OR B737-9 MAX ACFT ARE PROHIBITED FM OPR IN '
+                   'CANADIAN\n'
+                   'AIRSPACE EXC FOR FERRY FLIGHTS OR ACFT IN FLIGHT FOR THE '
+                   'DURATION\n'
+                   'OF THAT FLIGHT ENROUTE TO OR FM OR WITHIN CANADA AT THE '
+                   'TIME THIS\n'
+                   'NOTICE TAKES EFFECT.\n'
+                   '\n'
+                   'FR:\n'
+                   "CONFORMEMENT A L'ARTICLE 5.1 DE LA LOI SUR L'AERONAUTIQUE, "
+                   'LE\n'
+                   "   MINISTRE DES TRANSPORTS ESTIME QU'IL EST NECESSAIRE "
+                   'POUR LA\n'
+                   '   PROTECTION DE LA SECURITE AERIENNE ET DU PUBLIC '
+                   "D'INTERDIRE\n"
+                   "   L'UTILISATION DES ACFT BOEING 737-8 MAX ET 737-9 MAX "
+                   'DANS\n'
+                   "   L'ESPACE AERIEN CANADIEN.\n"
+                   '   LES ACFT BOEING 737-8 MAX OU 737-9 MAX SONT INTERDITS '
+                   'DE VOL\n'
+                   "   DANS L'ESPACE AERIEN CANADIEN A L'EXC DES VOLS DE "
+                   'CONVOYAGE\n'
+                   "   OU LES VOLS A PARTIR, A DESTINATION OU A L'INTERIEUR "
+                   'DE \n'
+                   "L'ESPACE\n"
+                   "   AERIEN CANADIEN AU MOMENT DE L'ENTREE EN VIGUEUR DE CET "
+                   'AVIS.\n'
+                   'F) SFC G) UNL)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 68484,
+           'pointReference': 'CYRO',
+           'radialDistance': 2.9,
+           'startValidity': '2020-07-24T20:02:24.989',
+           'text': '(E3822/20 NOTAMR E3802/20\n'
+                   'Q) CZUL/QOBCE/IV/M/AE/000/005/4520N07541W005\n'
+                   'A) CYOW B) 2007271100 C) 2008282100\n'
+                   'D) MON-FRI 1100-2100\n'
+                   'E) MOBILE CRANE WITHIN 103FT RADIUS CENTRED ON 452012N '
+                   '0754107W APRX \n'
+                   '660FT BFR THR 22 AND 690FT NW EXTENDED RCL. 103FT AGL '
+                   '444FT AMSL. \n'
+                   'NOT LGTD, NOT PAINTED.\n'
+                   '\n'
+                   'FR:\n'
+                   'GRUE MOBILE DANS UN RAYON DE 103FT CENTRE 452012N 0754107W '
+                   'APRX \n'
+                   '660FT BFR THR 22 ET 690FT AU NW DU PROLONGEMENT DE RCL. '
+                   '103FT AGL \n'
+                   '444FT AMSL. NON LGTD, NON PEINTE.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 73901,
+           'pointReference': 'CYRO',
+           'radialDistance': 3.8,
+           'startValidity': '2020-08-20T13:31:00',
+           'text': '(E4181/20 NOTAMN\n'
+                   'Q) CZUL/QPICH/I/NBO/A/000/999/4519N07540W005\n'
+                   'A) CYOW B) 2008201331 C) PERM\n'
+                   'E) AMEND PUBLICATIONS: \n'
+                   'ILS RWY 32 APCH : PLAN VIEW : ADD OPERATIONAL NOTE : LOC '
+                   'RELIABLE \n'
+                   'ONLY WITHIN 10 DEG EITHER SIDE OF CENTRELINE\n'
+                   '\n'
+                   'FR:\n'
+                   'MODIFIER LA PUBLICATIONS: \n'
+                   'APCH ILS PISTE 32: VUE EN PLAN: AJOUTER NOTE '
+                   'OPERATIONNELLE : LOC \n'
+                   "FIABLE SEULEMENT A L'INTERIEUR DE 10 DEG DE CHAQUE COTE DE "
+                   "L'AXE)",
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 73900,
+           'pointReference': 'CYRO',
+           'radialDistance': 3.8,
+           'startValidity': '2020-08-20T13:29:00',
+           'text': '(E4180/20 NOTAMN\n'
+                   'Q) CZUL/QPICH/I/NBO/A/000/999/4519N07540W005\n'
+                   'A) CYOW B) 2008201329 C) PERM\n'
+                   'E) AMEND PUBLICATIONS: \n'
+                   'ILS RWY 07 APCH : PLAN VIEW : ADD OPERATIONAL NOTE : \n'
+                   'LOC RELIABLE ONLY WITHIN 10 DEG EITHER SIDE OF CENTRELINE\n'
+                   '\n'
+                   'FR:\n'
+                   'MODIFIER LA PUBLICATIONS: \n'
+                   'APCH ILS PISTE 07: VUE EN PLAN : AJOUTER NOTE '
+                   'OPERATIONNELLE : \n'
+                   "LOC FIABLE SEULEMENT A L'INTERIEUR DE 10 DEG DE CHAQUE "
+                   'COTE DE \n'
+                   "L'AXE)",
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 70895,
+           'pointReference': 'CYRO',
+           'radialDistance': 3.8,
+           'startValidity': '2020-08-06T13:09:39.450',
+           'text': '(E4004/20 NOTAMR E2747/20\n'
+                   'Q) CZUL/QOBCE/IV/M/AE/000/006/4519N07540W005\n'
+                   'A) CYOW B) 2008061315 C) 2011052200\n'
+                   'D) MON-FRI 1000-2200 \n'
+                   'E) MOBILE CRANE WITHIN 335FT RADIUS CENTRED ON 451927N '
+                   '0754007W APRX \n'
+                   '2730FT BEYOND THR 07 AND 2980FT NORTH RCL. 150FT AGL 513FT '
+                   'AMSL. \n'
+                   'LGTD, NOT PAINTED.\n'
+                   '\n'
+                   'FR:\n'
+                   'GRUE MOBILE DANS UN RAYON DE 335FT CENTRE 451927N 0754007W '
+                   'APRX \n'
+                   '2730FT APRES THR 07 ET 2980FT AU NORD DE RCL. 150FT AGL '
+                   '513FT \n'
+                   'AMSL. LGTD, NON PEINTE.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 70847,
+           'pointReference': 'CYRO',
+           'radialDistance': 3.8,
+           'startValidity': '2020-08-06T05:04:00',
+           'text': '(V0701/20 NOTAMN\n'
+                   'Q) CZUL/QOLAS/IV/M/AE/000/006/4519N07537W005\n'
+                   'A) CYOW B) 2008060504 C) 2010062359\n'
+                   'E) OBST LGT U/S TOWER 451910N 0753710W (APRX 2NM ESE AD) '
+                   '105FT AGL, \n'
+                   '532FT AMSL.\n'
+                   '\n'
+                   'FR:\n'
+                   'OBST LGT U/S TOUR 451910N 0753710W (APRX 2NM ESE AD) 105FT '
+                   'AGL, \n'
+                   '532FT AMSL.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 70525,
+           'pointReference': 'CYRO',
+           'radialDistance': 3.8,
+           'startValidity': '2020-08-04T20:11:00',
+           'text': '(E3969/20 NOTAMR E3968/20\n'
+                   'Q) CZUL/QFFCG/IV/NBO/A/000/999/4519N07540W005\n'
+                   'A) CYOW B) 2008042011 C) 2009012300\n'
+                   'E) ACFT RESCUE AND FIRE FIGHTING (ARFF) DOWNGRADED TO CAT '
+                   '7\n'
+                   '\n'
+                   'FR:\n'
+                   "SVC DE SAUVETAGE ET LUTTE CONTRE LES INCENDIES D'ACFT "
+                   '(ARFF) \n'
+                   'DECLASSE A CAT 7)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 68979,
+           'pointReference': 'CYRO',
+           'radialDistance': 3.8,
+           'startValidity': '2020-07-27T20:28:29.541',
+           'text': '(E3856/20 NOTAMN\n'
+                   'Q) CZUL/QFIXX/IV/NBO/A/000/999/4519N07540W005\n'
+                   'A) CYOW B) 2007301100 C) 2010301100\n'
+                   'E) OTTAWA FLYING CLUB AVBL 2 HR PN 613-523-2142 EXT 0 \n'
+                   '\n'
+                   'FR:\n'
+                   'OTTAWA FLYING CLUB AVBL 2 HR PN 613-523-2142 EXT 0)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 61502,
+           'pointReference': 'CYRO',
+           'radialDistance': 3.8,
+           'startValidity': '2020-06-19T20:22:00',
+           'text': '(E3318/20 NOTAMN\n'
+                   'Q) CZUL/QMXXX/IV/M/A/000/999/4519N07540W005\n'
+                   'A) CYOW B) 2006192022 C) 2009011630\n'
+                   'E) NON STANDARD MARKING TWY E HOLD SHORT AT RWY 07/25\n'
+                   '\n'
+                   'FR:\n'
+                   'MARQUAGE NON STANDARD TWY E RESTEZ A L ECART A RWY 07/25)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 61501,
+           'pointReference': 'CYRO',
+           'radialDistance': 3.8,
+           'startValidity': '2020-06-19T20:21:00',
+           'text': '(E3317/20 NOTAMN\n'
+                   'Q) CZUL/QMXXX/IV/M/A/000/999/4519N07540W005\n'
+                   'A) CYOW B) 2006192021 C) 2009011620\n'
+                   'E) NON STANDARD MARKING TWY C HOLD SHORT EAST OF RWY '
+                   '14/32\n'
+                   '\n'
+                   'FR:\n'
+                   'MARQUAGE NON STANDARD TWY C RESTEZ A L ECART EST DE RWY '
+                   '14/32)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 51010,
+           'pointReference': 'CYRO',
+           'radialDistance': 3.8,
+           'startValidity': '2020-04-14T12:31:00',
+           'text': '(E2385/20 NOTAMN\n'
+                   'Q) CZUL/QPMCH/IV/NBO/A/000/999/4519N07540W005\n'
+                   'A) CYOW B) 2004141231 C) PERM\n'
+                   'E) AMEND PUBLICATIONS: RNAV (RNP) Y RWY 14 APCH: \n'
+                   'RNP 0.30 MINIMA: ALL CATS TO READ : 743 (392) 1\n'
+                   '\n'
+                   'FR:\n'
+                   'MODIFIEZ PUBLICATIONS: APCH RNAV (RNP) Y PISTE 14: \n'
+                   'MINIMA RNP 0.30: TOUTES CATS DEVRAIENT LIRE: 743 (392) 1)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYOW',
+           'pk': 51009,
+           'pointReference': 'CYRO',
+           'radialDistance': 3.8,
+           'startValidity': '2020-04-14T12:28:00',
+           'text': '(E2384/20 NOTAMN\n'
+                   'Q) CZUL/QPMCH/IV/NBO/A/000/999/4519N07540W005\n'
+                   'A) CYOW B) 2004141228 C) PERM\n'
+                   'E) AMEND PUBLICATIONS: RNAV (GNSS) Z RWY 14 APCH: \n'
+                   'LNAV MINIMA: ALL CATS TO READ : 740 (389) 1\n'
+                   '\n'
+                   'FR:\n'
+                   'MODIFIEZ PUBLICATIONS: APCH RNAV (GNSS) Z PISTE 14: \n'
+                   'MINIMA LNAV: TOUTES CATS DEVRAIENT LIRE: 740 (389) 1)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 68312,
+           'pointReference': 'CYRO',
+           'radialDistance': 7.0,
+           'startValidity': '2020-07-24T09:06:00',
+           'text': '(V0643/20 NOTAMR V0325/20\n'
+                   'Q) CZUL/QOLAS/V/M/E/000/019/4530N07551W002\n'
+                   'A) CZUL B) 2007240906 C) 2010232100\n'
+                   'E) OBST LGT U/S TOWER 453011N 0755102W (APRX 5NM S '
+                   'CASCADES (WATER)) \n'
+                   '750FT AGL, 1900FT AMSL.\n'
+                   '\n'
+                   'FR:\n'
+                   'OBST LGT U/S TOUR 453011N 0755102W (APRX 5NM S CASCADES '
+                   '(HYDRO)) \n'
+                   '750FT AGL, 1900FT AMSL.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CHF2',
+           'pk': 67881,
+           'pointReference': 'CYRO',
+           'radialDistance': 9.1,
+           'startValidity': '2020-07-22T11:20:00',
+           'text': '(V0633/20 NOTAMN\n'
+                   'Q) CZUL/QOLAS/IV/M/AE/000/006/4514N07543W005\n'
+                   'A) CXXX B) 2007221120 C) 2009222359\n'
+                   'E) CHF2 OTTAWA/MANOTICK (HOPE FIELD) \n'
+                   'OBST LGT U/S TOWER 451411N 0754319W (APRX 2.8NM N AD) '
+                   '197FT AGL, \n'
+                   '522FT AMSL.\n'
+                   '\n'
+                   'FR:\n'
+                   'CHF2 OTTAWA/MANOTICK (HOPE FIELD) \n'
+                   'OBST LGT U/S TOUR 451411N 0754319W (APRX 2.8NM N AD) 197FT '
+                   'AGL, \n'
+                   '522FT AMSL.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 71141,
+           'pointReference': 'CYRO',
+           'radialDistance': 11.2,
+           'startValidity': '2020-08-07T14:01:54.799',
+           'text': '(Q1002/20 NOTAMN\n'
+                   'Q) CZUL/QOBCE/IV/M/E/000/010/4516N07547W002\n'
+                   'A) CZUL B) 2008101000 C) PERM\n'
+                   'E) AMEND PUBLICATIONS: MULTIPLE CRANES RADIUS 1375 FT '
+                   'CENTRED ON \n'
+                   '451605N 754723W (APRX 6NM NNW AD OTTAWA/MANOTICK (HOPE '
+                   'FIELD))\n'
+                   '240FT AGL 577FT AMSL, LGTD AND NOT PAINTED\n'
+                   'DAILY 1000-0200 (DT 1100-0300)\n'
+                   '\n'
+                   'FR:\n'
+                   'MODIFIER PUBLICATIONS: MULTIPLE GRUES RAYON 1375 FT '
+                   'CENTRE \n'
+                   '451605N 754723W (APRX 6NM NNW AD OTTAWA/MANOTICK (HOPE '
+                   'FIELD))\n'
+                   '240FT AGL 577FT AMSL, LGTD ET NON PEINTE\n'
+                   'DAILY 1000-0200 (DT 1100-0300))',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 73924,
+           'pointReference': 'CYRO',
+           'radialDistance': 14.4,
+           'startValidity': '2020-08-20T14:30:00',
+           'text': '(N2460/20 NOTAMN\n'
+                   'Q) CZUL/QWGLW/IV/M/W/000/040/4502N07531W012\n'
+                   'A) CZUL B) 2008201430 C) 2008210000\n'
+                   'E) ADVISORY AREA CYA528(S)(T) KEMPTVILLE ACT\n'
+                   'SFC TO BLW 4000FT AMSL\n'
+                   '\n'
+                   'FR:\n'
+                   'ZONE DE SERVICE CONSULTATIF CYA528(S)(T) KEMPTVILLE ACT\n'
+                   'SFC A BLW 4000FT AMSL\n'
+                   'F) SFC G) 4000FT AMSL)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 73927,
+           'pointReference': 'CYRO',
+           'radialDistance': 18.7,
+           'startValidity': '2020-08-20T14:32:00',
+           'text': '(N2461/20 NOTAMN\n'
+                   'Q) CZUL/QWGLW/IV/M/W/000/025/4506N07538W003\n'
+                   'A) CZUL B) 2008201432 C) 2008210000\n'
+                   'E) ADVISORY AREA CYA534(S) KARS ACT\n'
+                   'SFC TO BLW 2500FT AMSL\n'
+                   '\n'
+                   'FR:\n'
+                   'ZONE DE SERVICE CONSULTATIF CYA534(S) KARS ACT\n'
+                   'SFC A BLW 2500FT AMSL\n'
+                   'F) SFC G) 2500FT AMSL)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CNR6',
+           'pk': 20789,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.3,
+           'startValidity': '2019-10-18T14:17:37.902',
+           'text': '(Q0122/19 NOTAMN\n'
+                   'Q) CZUL/QOBCE/IV/M/AE/000/008/4504N07605W005\n'
+                   'A) CXXX B) 1910181420 C) PERM\n'
+                   'E) CNR6 CARLETON PLACE \n'
+                   'AMEND PUBLICATIONS: TOWER 450351N 0760500W (APRX 2.9NM SSE '
+                   'AD). \n'
+                   '344FT AGL 782FT AMSL. LGTD, NOT PAINTED.\n'
+                   '\n'
+                   'FR:\n'
+                   'CNR6 CARLETON PLACE \n'
+                   'TOUR 450351N 0760500W (APRX 2.9NM SSE AD). 344FT AGL 782FT '
+                   'AMSL. \n'
+                   'LGTD, NON PEINTE.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 72503,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-08-13T15:22:00',
+           'text': '(G1108/20 NOTAMN\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5245N09040W999\n'
+                   'A) CZYZ CZWG B) 2008131522 C) 2011101500EST\n'
+                   'E) COVID 19: INFORMATION\n'
+                   'BORDER SVC ARE TEMPO SUSPENDED AT THE MAJORITY OF SMALL  '
+                   'AIRPORTS \n'
+                   'ACROSS CANADA. FOR AN UPDATED LIST OF AUTH AIRPORTS OF '
+                   'ENTRY SEE \n'
+                   'THE LINK FOR OPEN PORTS OF ENTRY AT '
+                   'WWW.CBSA-ASFC.GC.CA/OFFICES)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 69404,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-07-29T17:58:23.418',
+           'text': '(G0983/20 NOTAMN\n'
+                   'Q) CZYZ/QARXX/IV/BO/E/000/999/4729N08055W999\n'
+                   'A) CZYZ B) 2007310901 C) 2010162359\n'
+                   'E) NOTICE OF TRIAL TO REMOVE FLT PLANNING REQUIREMENTS OF '
+                   'EASTBOUND \n'
+                   'NORTH AMERICAN ROUTE (NAR) SYSTEM:\n'
+                   '\n'
+                   'ALL FLTS DEP FM CYYZ, CYUL, KORD, KDTW, KMSP, KATL, KCVG, '
+                   'KDFW, \n'
+                   'KMIA, KSAV, KIAH, AND ALL AP WITHIN THE REGIONS OF '
+                   'MEXICO, \n'
+                   'CENTRAL AMERICA, AND NW CARIBBEAN OPR WITHIN THE NORTH '
+                   'ATLANTIC \n'
+                   'ORGANIZED TRACK STRUCTURE, ARE NOT REQUIRED TO FILE THE \n'
+                   'ASSOCIATED NAR LISTED ON THE DLY ZBW NORTH ATLANTIC '
+                   'ADVISORY OR \n'
+                   'THE NAT OTS MESSAGE. ASSOCIATED NAR ARE REFERENCED UNDER '
+                   'THE (JFK \n'
+                   'DEP) SECTION OF THE ADVISORY. \n'
+                   '\n'
+                   'DEPS MUST STILL COMPLY WITH ANY DEP RTE, STRUCTURES, '
+                   'AND/OR \n'
+                   'RESTRICTIONS FM THE DEP AP. OPTIMIZED ROUTINGS CAN ONLY \n'
+                   'BEGIN FM POINTS WITHIN ZBW AIRSPACE, THE MONCTON FIR, OR '
+                   'BOTH. \n'
+                   'ONCE INSIDE ZBW AIRSPACE/MONCTON FIR, RANDOM ROUTINGS TO '
+                   'THE OEP \n'
+                   'ARE PERMITTED. FLT PATHS OF ACFT PARTICIPATING IN THE '
+                   'TRIAL MUST \n'
+                   'REMAIN AT OR NORTH OF A LINE VITOL-LOMPI. PLEASE REFER TO '
+                   'DLY ZBW \n'
+                   'NORTH ATLANTIC ADVISORY FOR SPECIFIC INFO AND STATUS OF '
+                   'THIS \n'
+                   'TRIAL. \n'
+                   '\n'
+                   'THIS TRIAL MAY BE DISCONTINUED AT ANY TIME, BASED ON '
+                   'OPERATIONAL \n'
+                   'IMPACT.\n'
+                   '\n'
+                   'DISPATCHERS SHALL INCLUDE (NO NARS EAST TRIAL) IN THE '
+                   'REMARKS \n'
+                   'SECTION OF FLT PLANS FOR PARTCIPATING ACFT.\n'
+                   '\n'
+                   'FLT CREWS ARE EXPECTED TO CARRY APPLICABLE NAR '
+                   'DOCUMENTATION ON \n'
+                   'THE FLT DECK FOR ALL FLTS, REGARDLESS IF PARTICIPATING IN '
+                   'THE \n'
+                   'TRIAL OR NOT.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 68911,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-07-27T16:16:00',
+           'text': '(G0970/20 NOTAMR G0726/20\n'
+                   'Q) CZXX/QOECA/IV/BO/W/000/999/5245N09040W999\n'
+                   'A) CZYZ CZWG B) 2007271616 C) 2009171600EST\n'
+                   'E) COVID-19:  FLIGHT RESTRICTIONS\n'
+                   'UNTIL FURTHER NOTICE, WITH THE INTENT TO PREVENT THE '
+                   'SPREAD OF \n'
+                   'COVID-19 THROUGHOUT CANADA, ALL PRIVATE OPR AND COMMERCIAL '
+                   'AIR \n'
+                   'SVC OPR FLT TO CANADA TRANSPORTING PASSENGERS MUST COMPLY '
+                   'WITH \n'
+                   "THE PROVISION OF THE 'INTERIM ORDER RESPECTING CERTAIN \n"
+                   "REQUIREMENTS FOR CIVIL AVIATION DUE TO COVID-19 NO.4' "
+                   'DATED JULY \n'
+                   '25, 2020. THIS INCLUDES A REQUIREMENT FOR PASSENGER FACE '
+                   'MASKS OR \n'
+                   'COVERINGS. \n'
+                   'IN ADDITION TO ABV, AND PURSUANT TO SECTION 5.1 OF THE \n'
+                   'AERONAUTICS ACT, ALL COMMERCIAL AIR SVC CONDUCTING SKED \n'
+                   'INTERNATIONAL SVC FOR THE TRANSPORT OF PASSENGERS ON AN '
+                   'INBOUND \n'
+                   'FLT TO CANADA, EXC DIRECT FLT FM THE USA, MEXICO, '
+                   'CENTRAL \n'
+                   'AMERICA, THE CARIBBEAN, SOUTH AMERICA, AND ST-PIERRE ET '
+                   'MIQUELON, \n'
+                   'MUST, FOR THE PURPOSE OF DISEMBARKING PASSENGERS, LAND AT '
+                   'ONE OF \n'
+                   'THE FLW AP:\n'
+                   '-AEROPORT INTL DE MONTREAL-TRUDEAU \n'
+                   '-CALGARY INTL AIRPORT\n'
+                   '-TORONTO-PEARSON INTL AIRPORT\n'
+                   '-VANCOUVER INTL AIRPORT\n'
+                   '\n'
+                   'THIS RESTRICTION DOES NOT APPLY TO ACFT OPERATED IN THE '
+                   'FLW \n'
+                   'CIRCUMSTANCES: \n'
+                   '-TECHNICAL STOPS WHERE PASSENGERS DO NOT DISEMBARK, OR\n'
+                   '-AT ALTERNATE AP IDENTIFIED IN A FLT PLAN TO ADDRESS WX, '
+                   'OR \n'
+                   '-ACFT SAFETY SITUATIONS, OR\n'
+                   '-IN THE CASE WHERE SPECIAL AUTH HAS BEEN GRANTED BY '
+                   'TRANSPORT \n'
+                   'CANADA: 1-888-857-4003.\n'
+                   'F) SFC G) UNL)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 68909,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-07-27T16:15:00',
+           'text': '(G0969/20 NOTAMR G0727/20\n'
+                   'Q) CZXX/QOECA/IV/BO/W/000/999/5245N09040W999\n'
+                   'A) CZYZ CZWG B) 2007271615 C) 2009171600EST\n'
+                   'E) COVID-19: FLIGHT RESTRICTIONS:\n'
+                   'UNTIL FURTHER NOTICE, WITH THE INTENT TO PREVENT THE '
+                   'SPREAD OF \n'
+                   'COVID-19 THROUGHOUT CANADA, AN OPERATOR OPERATING FLIGHTS '
+                   'IN \n'
+                   "CANADA MUST COMPLY WITH THE PROVISION OF THE 'INTERIM "
+                   'ORDER \n'
+                   'RESPECTING CERTAIN REQUIREMENTS FOR CIVIL AVIATION DUE '
+                   'TO \n'
+                   "COVID-19 NO.4'  DATED JULY 25, 2020. THIS INCLUDES A "
+                   'REQUIREMENT \n'
+                   'FOR PASSENGER FACE MASKS. OPERATORS ARE REQUIRED TO '
+                   'NOTIFY \n'
+                   'PASSENGERS OF THE LATEST MEASURES TO PREVENT THE SPREAD '
+                   'OF \n'
+                   'COVID-19 TAKEN BY THE TERRITORIAL AND PROVINCIAL '
+                   'GOVERNMENT WITH \n'
+                   'JURISDICTION AT THE DESTINATION AERODROME FOR THAT '
+                   'FLIGHT.\n'
+                   'F) SFC G) UNL)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 66340,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-07-14T19:14:00',
+           'text': '(G0894/20 NOTAMR G0436/20\n'
+                   'Q) CZXX/QOECA/IV/BO/W/000/999/5245N09040W999\n'
+                   'A) CZYZ CZWG B) 2007141914 C) 2009171400EST\n'
+                   'E) COVID-19: CREWS/PASSENGERS REQUIREMENTS\n'
+                   'ALL FOREIGN MIL AND STATE ACFT WITH STOP OVERS IN CANADA '
+                   'TO CTC \n'
+                   'SODO(AT)FORCES.GC.CA OR CALL \n'
+                   '(204) 833-2500 EXT 2082 PRIOR TO FILING FLT PLAN\n'
+                   'F) SFC G) UNL)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CNP3',
+           'pk': 66033,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-07-13T17:21:00',
+           'text': '(J3179/20 NOTAMN\n'
+                   'Q) CZYZ/QFAXX/IV/NBO/A/000/999/4525N07622W005\n'
+                   'A) CXXX B) 2007131721 C) PERM\n'
+                   'E) CNP3 ARNPRIOR \n'
+                   'AMEND PUBLICATIONS: CAUTION TO READ: PARACHUTING OVER APRT '
+                   '12,500 \n'
+                   'FT ASL AND BLW FM MAY-OCT.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 65450,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-07-10T12:42:00',
+           'text': '(M1343/20 NOTAMN\n'
+                   'Q) CZYZ/QWPLW/IV/M/W/000/125/4525N07622W005\n'
+                   'A) CZYZ B) 2007101242 C) 2010061600EST\n'
+                   'E) PARAJUMPS ACT WILL TAKE PLACE WITHIN 5NM RADIUS CENTRED '
+                   'ON \n'
+                   '452450N 0762157W (ARNPRIOR AD)\n'
+                   'SR-SS\n'
+                   'F) SFC G) 12500FT AMSL)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 63943,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-07-02T20:05:14.526',
+           'text': '(D1742/20 NOTAMN\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5245N09040W999\n'
+                   'A) CZWG CZYZ B) 2007040359 C) 2010021600\n'
+                   'E) CUST HR CHANGED FOR FLW AD. CTC 888-226-7277 FOR INFO.\n'
+                   '    -REGINA INTL (CYQR),\n'
+                   '    -CORONACH/SCOBEY BORDER STATION (CKK3).)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 46604,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-03-13T15:04:00',
+           'text': '(G0280/20 NOTAMR G0215/20\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5245N09040W999\n'
+                   'A) CZWG CZYZ B) 2003131504 C) PERM\n'
+                   'E) AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF '
+                   'TRANSPORT \n'
+                   'IN RESPONSE TO THE SECURITY SITUATION IN IRAQ. POTENTIAL '
+                   'RISK \n'
+                   'FROM MILITARY ACTIVITY AND ANTI-AVIATION WEAPONRY IN '
+                   'IRAQ. \n'
+                   'AIR OPERATORS ARE ADVISED NOT TO ENTER THE AIRSPACE OF '
+                   'IRAQ, \n'
+                   'INCLUDING THE BAGHDAD FIR (ORBB).)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 42756,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-02-18T20:52:00',
+           'text': '(G0180/20 NOTAMR G0171/20\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5245N09040W999\n'
+                   'A) CZWG CZYZ B) 2002182052 C) PERM\n'
+                   'E) AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF '
+                   'TRANSPORT \n'
+                   'IN RESPONSE TO THE POTENTIAL RISK DUE TO THE HAZARDOUS '
+                   'SITUATION \n'
+                   'CREATED BY THE EXPANDING CONFLICT IN LIBYA. AIR OPR ARE '
+                   'ADVISED \n'
+                   'NOT TO ENTER THE AIRSPACE OF LIBYA, INCLUDING THE TRIPOLI '
+                   'FIR \n'
+                   '(HLLL). )',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 41286,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-02-09T18:06:00',
+           'text': '(G0148/20 NOTAMN\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5245N09040W999\n'
+                   'A) CZWG CZYZ B) 2002091806 C) PERM\n'
+                   'E) AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF '
+                   'TRANSPORT \n'
+                   'IN RESPONSE TO THE POTENTIAL RISK FM HEIGHTENED MIL ACT '
+                   'AND \n'
+                   'DEDICATED ANTI-AVIATION WEAPONRY IN OR AROUND SYRIA. THIS '
+                   'MIL ACT \n'
+                   'MIGHT INCLUDE GPS INTERFERENCE, COM JAMMING, AND POSSIBLE '
+                   'ERRANT \n'
+                   'LONG-RANGE SURFACE-TO-AIR MISSILES ORIGINATING FM SYRIAN \n'
+                   'TERRITORY, WITHIN THE DAMASCUS FIR (OSTT), AND STRAYING '
+                   'INTO ADJ \n'
+                   'AIRSPACE. AIR OPR ARE ADVISED NOT TO ENTER THE AIRSPACE OF '
+                   'SYRIA, \n'
+                   'INCLUDING THE DAMASCUS FIR (OSTT), AND TO EXER CAUTION '
+                   'WHEN OPR \n'
+                   'IN THE AIRSPACE WITHIN 200NM OF THE DAMASCUS FIR (OSTT).)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 35944,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2020-01-11T02:20:00',
+           'text': '(G0009/20 NOTAMR G0008/20\n'
+                   'Q) CZXX/QXXXX/IV/NBO/E/000/999/5245N09040W999\n'
+                   'A) CZWG CZYZ B) 2001110220 C) PERM\n'
+                   'E) AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF '
+                   'TRANSPORT \n'
+                   'IN RESPONSE TO THE VOLATILE SECURITY SITUATION IN IRAN. '
+                   'POTENTIAL \n'
+                   'RISK FROM HEIGHTENED MILITARY ACTIVITY AND DEDICATED \n'
+                   'ANTI-AVIATION WEAPONRY IN IRAN. AIR OPERATORS ARE ADVISED '
+                   'NOT TO \n'
+                   'ENTER THE AIRSPACE OF IRAN, INCLUDING THE TEHRAN FIR '
+                   '(OIIX))',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 16917,
+           'pointReference': 'CYRO',
+           'radialDistance': 25.6,
+           'startValidity': '2019-10-11T15:21:13.623',
+           'text': '(G0049/19 NOTAMR G0027/19\n'
+                   'Q) CZXX/QRTLP/IV/BO/W/000/999/5245N09040W999\n'
+                   'A) CZWG CZYZ  B) 1910111524 C) PERM\n'
+                   'E) PURSUANT TO SECTION 5.1 OF THE AERONAUTICS ACT, THE '
+                   'MINISTER\n'
+                   'OF TRANSPORT IS OF THE OPINION IT IS NECESSARY FOR THE '
+                   'PROTECTION\n'
+                   'OF AVIATION SAFETY AND THE PUBLIC TO PROHIBIT THE OPS OF\n'
+                   'BOEING 737-8 MAX AND 737-9 MAX ACFT IN CANADIAN AIRSPACE.\n'
+                   'B737-8 MAX OR B737-9 MAX ACFT ARE PROHIBITED FM OPR IN '
+                   'CANADIAN\n'
+                   'AIRSPACE EXC FOR FERRY FLIGHTS OR ACFT IN FLIGHT FOR THE '
+                   'DURATION\n'
+                   'OF THAT FLIGHT ENROUTE TO OR FM OR WITHIN CANADA AT THE '
+                   'TIME THIS\n'
+                   'NOTICE TAKES EFFECT.\n'
+                   'F) SFC G) UNL)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CNP3',
+           'pk': 20621,
+           'pointReference': 'CYRO',
+           'radialDistance': 26.2,
+           'startValidity': '2019-10-17T19:21:25.504',
+           'text': '(J0418/19 NOTAMN\n'
+                   'Q) CZYZ/QOBCE/IV/M/AE/000/006/4527N07623W005\n'
+                   'A) CXXX B) 1910171924 C) PERM\n'
+                   'E) CNP3 ARNPRIOR \n'
+                   'AMEND PUBLICATIONS: TOWER 452706N 0762326W APRX 13880FT '
+                   'BFR THR \n'
+                   '16 AND 1340FT EAST EXTENDED RCL. 246FT AGL 586FT AMSL. NOT '
+                   'LGTD, \n'
+                   'NOT PAINTED.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CMX2',
+           'pk': 73751,
+           'pointReference': 'CYRO',
+           'radialDistance': 29.9,
+           'startValidity': '2020-08-19T18:19:00',
+           'text': '(K2510/20 NOTAMN\n'
+                   'Q) CZUL/QFAXX/IV/NBO/A/000/999/4518N07451W005\n'
+                   'A) CXXX B) 2008191819 C) PERM\n'
+                   'E) CMX2 MAXVILLE \n'
+                   'AMEND PUBLICATIONS: OPR TEL TO READ: 613-799-9881\n'
+                   '\n'
+                   'FR:\n'
+                   'CMX2 MAXVILLE \n'
+                   'MODIFIER LA PUBLICATIONS: OPR TEL DEVRAIT LIRE: '
+                   '613-799-9881)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYMX',
+           'pk': 69102,
+           'pointReference': 'CYRO',
+           'radialDistance': 34.2,
+           'startValidity': '2020-07-28T13:30:00',
+           'text': '(H1874/20 NOTAMR H1731/20\n'
+                   'Q) CZUL/QNVAS/IV/BO/AE/000/999/4553N07423W025\n'
+                   'A) CYMX B) 2007281330 C) 2008212359\n'
+                   'E) MIRABEL VOR YMX 116.7MHZ U/S\n'
+                   '\n'
+                   'FR:\n'
+                   'MIRABEL VOR YMX 116.7MHZ U/S)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CNS4',
+           'pk': 71933,
+           'pointReference': 'CYRO',
+           'radialDistance': 37.4,
+           'startValidity': '2020-08-11T05:21:00',
+           'text': '(V0715/20 NOTAMN\n'
+                   'Q) CZUL/QOLAS/IV/M/AE/000/007/4518N07440W005\n'
+                   'A) CXXX B) 2008110521 C) 2011101800\n'
+                   'E) CNS4 ALEXANDRIA \n'
+                   'OBST LGT U/S TOWER 451808N 0743952W (APRX 2.8NM WSW AD) '
+                   '300FT \n'
+                   'AGL, 628FT AMSL.\n'
+                   '\n'
+                   'FR:\n'
+                   'CNS4 ALEXANDRIA \n'
+                   'OBST LGT U/S TOUR 451808N 0743952W (APRX 2.8NM WSW AD) '
+                   '300FT AGL, \n'
+                   '628FT AMSL.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYMX',
+           'pk': 69620,
+           'pointReference': 'CYRO',
+           'radialDistance': 38.1,
+           'startValidity': '2020-07-30T17:18:00',
+           'text': '(H1908/20 NOTAMN\n'
+                   'Q) CZUL/QNBXX/IV/BO/AE/000/999/4541N07411W025\n'
+                   'A) CYMX B) 2007301718 C) 2010292359\n'
+                   'E) JOLY (MONTREAL INTL (MIRABEL)) NDB ZMM 266KHZ '
+                   'UNMONITORED\n'
+                   '\n'
+                   'FR:\n'
+                   'JOLY (MONTREAL INTL (MIRABEL)) NDB ZMM 266KHZ SANS '
+                   'SURVEILLANCE)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 66885,
+           'pointReference': 'CYRO',
+           'radialDistance': 40.2,
+           'startValidity': '2020-07-16T20:36:00',
+           'text': '(U0903/20 NOTAMN\n'
+                   'Q) CZYZ/QOLAS/V/M/E/000/011/4540N07636W002\n'
+                   'A) CZYZ B) 2007162036 C) 2010150400\n'
+                   'E) OBST LGT U/S TOWER 454029N 0763628W (APRX 11NM ENE '
+                   'COBDEN/BRUCE \n'
+                   'MCPHAIL MEMORIAL AD) 500FT AGL, 1060FT AMSL.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CPS6',
+           'pk': 72591,
+           'pointReference': 'CYRO',
+           'radialDistance': 40.4,
+           'startValidity': '2020-08-13T20:15:00',
+           'text': '(V0720/20 NOTAMN\n'
+                   'Q) CZUL/QOLAS/IV/M/AE/000/006/4501N07447W005\n'
+                   'A) CXXX B) 2008132015 C) 2009131800EST\n'
+                   'E) CPS6 CORNWALL (COMMUNITY HOSPITAL MCCONNELL SITE) '
+                   '(HELI)\n'
+                   'OBST LGT U/S TOWER 450035N 0744705W (APRX 3.1NM W AD) '
+                   '337FT AGL, \n'
+                   '527FT AMSL.\n'
+                   '\n'
+                   'FR:\n'
+                   'CPS6 CORNWALL (COMMUNITY HOSPITAL MCCONNELL SITE) (HELI)\n'
+                   'OBST LGT U/S TOUR 450035N 0744705W (APRX 3.1NM W AD) 337FT '
+                   'AGL, \n'
+                   '527FT AMSL.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CPS6',
+           'pk': 70724,
+           'pointReference': 'CYRO',
+           'radialDistance': 40.4,
+           'startValidity': '2020-08-05T17:59:00',
+           'text': '(V0698/20 NOTAMN\n'
+                   'Q) CZUL/QOLAS/IV/M/AE/000/009/4501N07447W005\n'
+                   'A) CXXX B) 2008051759 C) 2009241800\n'
+                   'E) CPS6 CORNWALL (COMMUNITY HOSPITAL MCCONNELL SITE) '
+                   '(HELI)\n'
+                   'OBST LGT U/S TOWER 450035N 0744709W (APRX 3.2NM W AD) '
+                   '337FT AGL, \n'
+                   '859FT AMSL.\n'
+                   '\n'
+                   'FR:\n'
+                   'CPS6 CORNWALL (COMMUNITY HOSPITAL MCCONNELL SITE) (HELI)\n'
+                   'OBST LGT U/S TOUR 450035N 0744709W (APRX 3.2NM W AD) 337FT '
+                   'AGL, \n'
+                   '859FT AMSL.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CPS6',
+           'pk': 61396,
+           'pointReference': 'CYRO',
+           'radialDistance': 40.4,
+           'startValidity': '2020-06-19T14:36:00',
+           'text': '(V0503/20 NOTAMN\n'
+                   'Q) CZUL/QOLAS/IV/M/AE/000/006/4501N07447W005\n'
+                   'A) CXXX B) 2006191436 C) 2009171700\n'
+                   'E) CPS6 CORNWALL (COMMUNITY HOSPITAL MCCONNELL SITE) '
+                   '(HELI)\n'
+                   'OBST LGT U/S TOWER 450035N 0744711W (APRX 3.2NM W AD) '
+                   '192FT AGL, \n'
+                   '527FT AMSL.\n'
+                   '\n'
+                   'FR:\n'
+                   'CPS6 CORNWALL (COMMUNITY HOSPITAL MCCONNELL SITE) (HELI)\n'
+                   'OBST LGT U/S TOUR 450035N 0744711W (APRX 3.2NM W AD) 192FT '
+                   'AGL, \n'
+                   '527FT AMSL.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CNL3',
+           'pk': 72687,
+           'pointReference': 'CYRO',
+           'radialDistance': 44.9,
+           'startValidity': '2020-08-14T12:50:00',
+           'text': '(K2441/20 NOTAMR K2329/20\n'
+                   'Q) CZUL/QLBAS/V/M/A/000/999/4438N07545W005\n'
+                   'A) CXXX B) 2008141250 C) 2009141600EST\n'
+                   'E) CNL3 BROCKVILLE REGIONAL TACKABERRY APRT \n'
+                   'ABN U/S)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CNL3',
+           'pk': 66025,
+           'pointReference': 'CYRO',
+           'radialDistance': 44.9,
+           'startValidity': '2020-07-13T16:52:00',
+           'text': '(K1968/20 NOTAMR K1564/20\n'
+                   'Q) CZUL/QMRXX/IV/NBO/A/000/999/4438N07545W005\n'
+                   'A) CXXX B) 2007131652 C) 2010051600EST\n'
+                   'E) CNL3 BROCKVILLE REGIONAL TACKABERRY APRT \n'
+                   'GLD ACT,\n'
+                   'RIGHT HAND CIRCUITS RWY 04/22 GLIDERS ONLY)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CNL3',
+           'pk': 56117,
+           'pointReference': 'CYRO',
+           'radialDistance': 44.9,
+           'startValidity': '2020-05-21T11:51:47.120',
+           'text': '(K1331/20 NOTAMN\n'
+                   'Q) CZUL/QMRHW/IV/NBO/A/000/999/4438N07545W005\n'
+                   'A) CXXX B) 2005211200 C) 2008211200\n'
+                   'E) CNL3 BROCKVILLE REGIONAL TACKABERRY APRT \n'
+                   'MAINT CREW AND EQPT WITHIN 200FT RWY 04/22 AND RWY 16/34)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CYCC',
+           'pk': 72250,
+           'pointReference': 'CYRO',
+           'radialDistance': 45.1,
+           'startValidity': '2020-08-12T13:34:00',
+           'text': '(V0718/20 NOTAMN\n'
+                   'Q) CZUL/QOLAS/IV/M/AE/000/005/4507N07434W005\n'
+                   'A) CYCC B) 2008121334 C) 2008261300\n'
+                   'E) OBST LGT U/S TOWER 450705N 0743347W (APRX 1.54NM NNE '
+                   'AD) 265FT \n'
+                   'AGL, 483FT AMSL.\n'
+                   '\n'
+                   'FR:\n'
+                   'OBST LGT U/S TOUR 450705N 0743347W (APRX 1.54NM NNE AD) '
+                   '265FT \n'
+                   'AGL, 483FT AMSL.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': None,
+           'pk': 65421,
+           'pointReference': 'CYRO',
+           'radialDistance': 47.7,
+           'startValidity': '2020-07-10T05:31:00',
+           'text': '(V0585/20 NOTAMN\n'
+                   'Q) CZUL/QOLAS/V/M/E/000/009/4438N07537W002\n'
+                   'A) CZUL B) 2007100531 C) 2010092100\n'
+                   'E) OBST LGT U/S TOWER 443825N 0753706W (APRX 6NM ESE '
+                   'BROCKVILLE \n'
+                   'REGIONAL TACKABERRY APRT AD) 500FT AGL, 850FT AMSL.\n'
+                   '\n'
+                   'FR:\n'
+                   'OBST LGT U/S TOUR 443825N 0753706W (APRX 6NM ESE AD '
+                   'BROCKVILLE \n'
+                   'REGIONAL TACKABERRY APRT) 500FT AGL, 850FT AMSL.)',
+           'type': 'notam'},
+          {'hasError': False,
+           'location': 'CSE4',
+           'pk': 73768,
+           'pointReference': 'CYRO',
+           'radialDistance': 49.8,
+           'startValidity': '2020-08-19T19:34:00',
+           'text': '(K2511/20 NOTAMN\n'
+                   'Q) CZUL/QMRHW/IV/NBO/A/000/999/4538N07422W005\n'
+                   'A) CXXX B) 2008191934 C) 2008202300EST\n'
+                   'E) CSE4 LACHUTE \n'
+                   'CREW AND EQPT WORKING WITHIN 200FT OF RWY 10/28, WITH NO '
+                   'RADIO \n'
+                   'CTC POSSIBLE \n'
+                   '\n'
+                   'FR:\n'
+                   'CSE4 LACHUTE \n'
+                   "EQUIPE ET EQPT TRAVAILLANT A L'INTERIEUR DE 200FT \n"
+                   'DE RWY 10/28, PAS DE CTC RDO POSSIBLE )',
+           'type': 'notam'}],
+ 'meta': {'count': {'notam': 59},
+          'messages': [],
+          'now': '2020-08-20T19:45:18.402'}}
