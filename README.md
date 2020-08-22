@@ -1,7 +1,8 @@
 Canada NOTAMs
 =============
 
-Read NOTAMs from the Nav Canada API and display them in reverse start-validity datetime.
+Read NOTAMs for an airport or route from the Nav Canada API and
+display them in reverse date.
 
 
 ## Installation
@@ -22,13 +23,23 @@ Add a Canadian airport GPS code as a parameter. For CYYZ (Toronto Pearson):
 
     python3 canada-notams.py CYYZ
     
-To page through the NOTAMs for CYVA (Vancouver):
+For a flight from Toronto to CYVR (Vancouver):
+
+    python3 canada-notams.py CYYZ CYVR
+    
+To page through the NOTAMs for CYUL (Montreal):
 
     python3 canada-notams.py CYVR | less
 
 Note that only Canadian airport codes recognized by ourairports.com will work.
 
-NOTAMs will always be sorted most-recent first (using the start validity date).
+The default search radius is 25 nautical miles around your airport or
+route. To change that, use the --radius option:
+
+    python3 canada-notams.py --radius 50 CYRO
+
+The script will deduplicate NOTAMs and display them sorted most-recent
+first (using the start validity date).
 
 
 ## License
