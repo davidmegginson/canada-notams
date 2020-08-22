@@ -105,6 +105,7 @@ def display_notams(notams):
     """
     
     for notam in sorted(notams, reverse=True, key=lambda notam: notam.get("startValidity")):
+        print("** Effective {}".format(notam["startValidity"]))
         print(notam["text"], "\n\n")
 
 
