@@ -41,11 +41,16 @@ route. To change that, use the --radius option:
 The script will deduplicate NOTAMs and display them sorted most-recent
 first (using the start validity date).
 
-You can also sort by radius distance fromt he airport/route rather
+You can also sort by radius distance from the airport/route rather
 than date, but because of the way Nav Canada encodes its NOTAMs, the
 result will usually not be what you expect:
 
     python3 canada-notams.py --sort distance --radius 50 CYRO
+    
+You can also use "route" for distance along the route, with similar
+caveats:
+    
+    python3 canada-notams.py --sort route CYUL CYWG
     
 
 ## License

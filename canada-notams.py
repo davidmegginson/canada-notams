@@ -104,18 +104,50 @@ def display_notams(notams, sort="time"):
     @param notams A list of NOTAM objects
     """
 
+    def isFloat(s):
+        try:
+            float(s)
+            return True
+        except:
+            return False
+
+    def tryFloat(s):
+        try:
+            return float(s)
+        except:
+            return s
+    
+    
+
     if sort == "time":
         sortkey = lambda notam: notam.get("startValidity")
         sortrev = True
     elif sort == "distance":
-        sortkey = lambda notam: float(notam.get("radialDistance", "0"))
+        sortkey = lambda notam: tryFloat(notam.get("radialDistance", 0))
+        sortrev = False
+    elif sort == "route":
+        sortkey = lambda notam: tryFloat(notam.get("pointReference", "0"))
         sortrev = False
     else:
         raise ValueError(sort)
 
     for notam in sorted(notams, reverse=sortrev, key=sortkey):
         print("** Effective {}".format(notam["startValidity"]))
-        print("** {} nm from {}".format(notam.get("radialDistance"), format(notam.get("pointReference"))))
+        locString = "**"
+        if notam["location"] is not None and notam["location"] != notam["pointReference"]:
+            locString += " " + notam["location"]
+        if isFloat(notam["pointReference"]):
+            if float(notam["radialDistance"]) < 0.001:
+                locString += " (on route)"
+            else:
+                locString += " (" + str(notam["radialDistance"]) + " nm off route)"
+        else:
+            if float(notam["radialDistance"]) < 0.001:
+                locString += " " + notam["pointReference"]
+            else:
+                locString += " (" + str(notam["radialDistance"]) + " nm from " + notam["pointReference"] + ")"
+        if locString != "**":
+            print(locString)
         print(notam["text"], "\n\n")
 
 
@@ -130,7 +162,7 @@ if __name__ == "__main__":
     # Parse command-line arguments
     p = argparse.ArgumentParser(description="Display Canadian NOTAMs");
     p.add_argument("-r", "--radius", type=int, help="Radius (nautical miles) to search around the airport", default=25)
-    p.add_argument("-s", "--sort", choices=["time", "distance"], help="Sort type", default="time")
+    p.add_argument("-s", "--sort", choices=["time", "distance", "route"], help="Sort type", default="time")
     p.add_argument("airports", metavar="ID", nargs="+", help="Airport identifiers")
     args = p.parse_args()
 
