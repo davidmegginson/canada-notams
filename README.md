@@ -37,10 +37,16 @@ The default search radius is 25 nautical miles around your airport or
 route. To change that, use the --radius option:
 
     python3 canada-notams.py --radius 50 CYRO
-
+    
 The script will deduplicate NOTAMs and display them sorted most-recent
 first (using the start validity date).
 
+You can also sort by radius distance fromt he airport/route rather
+than date, but because of the way Nav Canada encodes its NOTAMs, the
+result will usually not be what you expect:
+
+    python3 canada-notams.py --sort distance --radius 50 CYRO
+    
 
 ## License
 

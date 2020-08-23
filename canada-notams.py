@@ -99,13 +99,23 @@ def load_notams (airports, radius=25, airport_data="ca-airports.csv"):
     return notams.values()
 
 
-def display_notams(notams):
+def display_notams(notams, sort="time"):
     """ Dump NOTAMs to the standard output, sorted by reverse date
     @param notams A list of NOTAM objects
     """
-    
-    for notam in sorted(notams, reverse=True, key=lambda notam: notam.get("startValidity")):
+
+    if sort == "time":
+        sortkey = lambda notam: notam.get("startValidity")
+        sortrev = True
+    elif sort == "distance":
+        sortkey = lambda notam: float(notam.get("radialDistance", "0"))
+        sortrev = False
+    else:
+        raise ValueError(sort)
+
+    for notam in sorted(notams, reverse=sortrev, key=sortkey):
         print("** Effective {}".format(notam["startValidity"]))
+        print("** {} nm from {}".format(notam.get("radialDistance"), format(notam.get("pointReference"))))
         print(notam["text"], "\n\n")
 
 
@@ -120,12 +130,13 @@ if __name__ == "__main__":
     # Parse command-line arguments
     p = argparse.ArgumentParser(description="Display Canadian NOTAMs");
     p.add_argument("-r", "--radius", type=int, help="Radius (nautical miles) to search around the airport", default=25)
+    p.add_argument("-s", "--sort", choices=["time", "distance"], help="Sort type", default="time")
     p.add_argument("airports", metavar="ID", nargs="+", help="Airport identifiers")
     args = p.parse_args()
 
     # Get and display the NOTAMs
     notams = load_notams(args.airports, args.radius)
-    display_notams(notams)
+    display_notams(notams, args.sort)
 
     # Exit with a success code
     exit(0)
